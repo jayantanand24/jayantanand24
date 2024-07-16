@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python and software Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on jayant.cse24@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 LinkedIn - https://www.linkedin.com/in/jayant-anand-cse24/
 
 <!---
 jayantanand24/jayantanand24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
